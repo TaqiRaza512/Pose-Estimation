@@ -1,6 +1,7 @@
 # ⛹️‍♂️ Basketball Player Movement Analysis with Pose Estimation 📊
 
 This project analyzes basketball player movement using pose estimation with MediaPipe, combined with data analysis techniques.
+![image](https://github.com/user-attachments/assets/6f24fc18-d96e-4826-8ac6-e854c52f4886)
 
 **View the Notebook:**
 
